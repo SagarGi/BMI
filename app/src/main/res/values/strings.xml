@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="about">BMI Calculator is free app that allows you to monitor BMI and percentage of fat in your body.Ideal weight - app calculates the ideal weight you should gain.To calculate it app uses the D. R. Miller formula.Body fat percentage is estimated from BMI by formula derived by Deurenberg and co-workers.All measurements use information about your body: gender, age, height and weight.App is designed for people of different ages and supports for both metric and imperial.Track your BMI and stay healthy!</string>
+    <string name="heading1"><u>INTRODUCTION TO BODY MASS INDEX(BMI)</u></string>
+    <string name="description1">The body mass index (BMI) is a physical measurement used to assess an individual’s total amount of body fat. The BMI was invented by Belgian polymath Adolphe Quetelet in the 1800s, and consequently is sometimes known as the Quetelet index. The BMI is calculated by dividing your weight in kilograms (kg) by your height in metres squared (m2). It is expressed as kg/m2.</string>
+    <string name="heading2">What does your BMI mean?</string>
+    <string name="descption2">The BMI scores give an indirect measure of body fat. Depending on the BMI value calculated you may be underweight, healthy weight, overweight or obese. The cut off values are as follows:</string>
+    <string name="description2.1"><br><b>BMI  Classification:</b> \n</br>
+
+ <br>less than  18.5 \t  Underweight \n</br>
+
+<br>18.5–24.9 \t Healthy weight \n</br>
+<br>25.0–29.9 \t Overweight \n</br>
+<br>30.0–34.9  \t  Obese Class 1 \n</br>
+<br>35.0–39.9 \t Obese Class 2 \n</br>
+<br>greater than 40.0 \t   Obese Class 3 \n</br>
+
+ </string>
+    <string name="heading3"><b>Why are BMIs useful?</b></string>
+    <string name="description3">The BMI is a simple, inexpensive screening tool used to identify possible weight problems for both adults and children. A BMI measurement is useful to assess who needs further testing to identify health risks such as heart disease. Individuals at risk will need further assessment. Assessments may include skin fold thickness test, diet, physical activity level, family history and other appropriate health screenings.</string>
+</resources>
